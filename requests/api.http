@@ -1,0 +1,6 @@
+POST http://localhost:5000/api/url/shorten
+Content-Type: application/json
+
+{
+    "longUrl": "https://www.flipkart.com/portronics-harmonics-twins-22-smart-tws-earpods-bluetooth-headset/p/itm3afa13104b294?pid=ACCFRTMGWDTTSTZ8&lid=LSTACCFRTMGWDTTSTZ83FB9CE&marketplace=FLIPKART&store=0pm%2Ffcn&srno=b_1_1&otracker=hp_omu_Deals%2Bof%2Bthe%2BDay_1_3.dealCard.OMU_BTJ4YQUCDZDD_3&otracker1=hp_omu_SECTIONED_manualRanking_neo%2Fmerchandising_Deals%2Bof%2Bthe%2BDay_NA_dealCard_cc_1_NA_view-all_3&fm=neo%2Fmerchandising&iid=en_ABiRGhmKUU53UHSyewjbnSCzRpt6GRiJ7eooSESr8JUjRAJPtP2b2mBjaY1HFRFrgMCr5PVyqUCrJltsop2EuA%3D%3D&ppt=browse&ppn=browse&ssid=02uans0xhs0000001618775572909"
+}
